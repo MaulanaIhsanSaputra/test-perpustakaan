@@ -1,0 +1,20 @@
+
+.mT-19 {
+    margin-top: 19px;
+}
+
+.mB-19 {
+    margin-bottom: 19px;
+}
+
+.mT-19-point-5 {
+    margin-top: 19.5px;
+}
+
+.mB-19-point-5 {
+    margin-bottom: 19.5px;
+}
+
+.vertical-align-middle tr td, .vertical-align-middle th td{
+	vertical-align: middle;
+}
